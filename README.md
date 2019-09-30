@@ -32,11 +32,11 @@ To get a development version working on your local machine, pull down the code f
 *make a new project directory on your machine
 *cd to your project folder = type command cd /path/to/project and hit enter
 *$ git init
-*`$ git remote add origin git@github.com:develop-me/git-simple.git`
+*`$ git remote add origin git@github.com:Aliztier/ping-pong-webapp.git`
 *$ git fetch
 *$ git checkout master
 or:
-*$ git clone git@github.com:develop-me/git-simple.git {folder name}
+*$ git clone git@github.com:Aliztier/ping-pong-webapp.git {folder name}
 
 
 ---
